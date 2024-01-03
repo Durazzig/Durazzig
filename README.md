@@ -1,4 +1,12 @@
 ### Hi there 👋
+[
+  ProfileInformation(
+  firstName: "Tadeo",
+  lastName: "Durazo",
+  birthday: "12/29/1997",
+  age: 26,
+)
+]
 
 <!--
 **Durazzig/Durazzig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
